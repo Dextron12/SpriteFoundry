@@ -1,4 +1,4 @@
-[](SpriteFOundry_logo.png)
+![SpriteFoundry Logo](SpriteFoundry_logo.png)
 
 
 **SpriteFoundry** is a modular sprite rigging, animation, and asset packaging tool built for use with [Dexium 2D](https://github.com/Dextron12/Dexium2D). It streamlines the process of preparing complex sprite setups, managing anchor points, modular animations, and bundling game assets into Dexium’s custom `.dexpak` format.
